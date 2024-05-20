@@ -1,5 +1,5 @@
 **ipynb檔案有時無法正常顯示**
-練習時做，若有誤請鞭小力點 > <
+
 
 1.計算檔案數量  
 ![image](https://github.com/cherry3131/Work-TF-Oat/assets/140130666/1161062d-ab1d-4082-bda3-7ab4674438ec)  
@@ -31,3 +31,4 @@
 ![image](https://github.com/cherry3131/Work-TF-Oat/assets/140130666/311f270e-fcda-4e18-b593-611a3904216d)
 
 10. to be continue
+    練習實作，還在改進中，若有誤請鞭小力點 > <
